@@ -1,0 +1,13 @@
+*** QUESTIONS ***
+
+1. What does it mean to `commit` in a git repository.
+< Your answer here >
+
+2. When should you create a new branch?  Use examples in your answer!
+< Your answer here >
+
+3. In your own words, what is a database?  Use examples to explain.
+< Your answer here >
+
+4. In a database, how do we create relationships between tables?
+< Your answer here >
