@@ -59,7 +59,7 @@ VALUES
 	(13,'Travis Scott','SICKO MODE',1046,1),
 	(8,'XXXTENTACION','Jocelyn Flores',1673,2),
 	(9,'XXXTENTACION','SAD!',1217,1),
-	(21,'XXXTENTACION','Fuck Love',1406,5),
+	(21,'XXXTENTACION','Frack Love',1406,5),
 	(28,'XXXTENTACION','Moonlight',923,2);
 
 *** QUERY ***
