@@ -5,7 +5,7 @@
 2. Open your forked repository in Visual Studio.
 
 ## Instructions
-1. Insert your name on line 1 to replace `<YOUR NAME HERE>` above.
+1. Insert your name on line 1 to replace `<YOUR NAME HERE>` above. (Ex: `# Mod2 Week1 Assessment - Megan McMahon`)
 2. Commit your changes with this commit message: start assessment
 3. Create a branch called `questions`.
 4. On the questions branch, answer the questions in Questions.txt
