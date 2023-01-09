@@ -1,6 +1,6 @@
 *** QUESTIONS ***
 
-1. What does it mean to `commit` in a git repository.
+1. What does it mean to `commit` in a git repository?
 < Your answer here >
 
 2. When should you create a new branch?  Use examples in your answer!

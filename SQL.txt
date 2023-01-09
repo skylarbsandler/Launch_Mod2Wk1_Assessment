@@ -46,7 +46,7 @@ VALUES
 	(16,'Post Malone','I Fall Apart',1278,2),
 	(22,'Post Malone','Better Now',862,1),
 	(33,'Post Malone','Wow.',699,1),
-	(1,'Post Malone','Sunflower  SpiderMan: Into the SpiderVerse',1506,1),
+	(1,'Post Malone','Sunflower SpiderMan: Into the SpiderVerse',1506,1),
 	(38,'Post Malone','Psycho',607,1),
 	(19,'Roddy Ricch','The Box',650,1),
 	(37,'The Chainsmokers','Closer',696,1),
@@ -63,17 +63,17 @@ VALUES
 	(28,'XXXTENTACION','Moonlight',923,2);
 
 *** QUERY ***
-1. Return only the Artist and Song Names
+1. Return only the Artist and Song Names.
 < PUT YOUR QUERY HERE >
 
-2. List the top 10 songs
+2. List the top 10 songs.
 < YOUR QUERY >
 
-3. List all songs that have been in the number 1 position (peakPosition)
+3. List all songs that have been in the number 1 position (peakPosition).
 < YOUR QUERY >
 
-4. Remove All songs by `the Chainsmokers`
+4. Remove All songs by `The Chainsmokers`.
 < YOUR QUERY >
 
-5. Update Post Malone's song `Congratualtions` to have a peakPosition of 3.
+5. Update Post Malone's song `Congratulations` to have a peak position of 3.
 < YOUR QUERY >
