@@ -13,7 +13,14 @@
 6. Merge your `questions` branch into the `main` branch.
 7. Create a branch called `SQL`.
 8. In PgAdmin, create a database called `SpotifyTopSongs`.
-9. Run the SETUP SQL queries in SQL.txt (you can copy everything from lines 3 to 63 and run it all at once).
-10. Create the queries described in the QUERY section in SQL.txt (starting on line 65). Replace each `< YOUR QUERY >` placeholder with the correct query.
+9. Run the SETUP SQL queries in db_setup.txt (you can copy the entire file and run it all at once).
+10. Create the queries in SQL.txt. Replace each `< YOUR QUERY >` placeholder with the correct query.
 
 ## Rubric
+
+| Section       | Points |
+|---------------|--------|
+| Git commands  |      6 |
+| Questions     |      4 |
+| SQL Queries   |      5 |
+| Total         |     15 |
