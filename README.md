@@ -20,6 +20,10 @@
 
 ## Rubric
 
+This assessment has a total of **15 Points**. Earning 10 or more points is a pass and will indicate that you are progressing well with the material.
+
+As a reminder, this assessment is for students and instructors to determine if there are any areas that need additional reinforcement!
+
 | Section       | Points |
 |---------------|--------|
 | Git commands  |      6 |
