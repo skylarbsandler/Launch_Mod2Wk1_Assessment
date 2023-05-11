@@ -1,15 +1,23 @@
 -- *** QUERY ***
 -- 1. Return only the Artist and Song Names.
-< PUT YOUR QUERY HERE >
+SELECT artistname, songname
+FROM songs;
 
 -- 2. List the top 10 songs.
-< YOUR QUERY >
+SELECT artistname, songname
+FROM songs
+WHERE position < 11;
 
 -- 3. List all songs that have been in the number 1 position (peakPosition).
-< YOUR QUERY >
+SELECT artistname, songname, peakposition
+FROM songs
+WHERE peakposition = 1;
 
 -- 4. Remove All songs by `The Chainsmokers`.
-< YOUR QUERY >
+DELETE FROM songs
+WHERE artistname = 'The Chainsmokers';
 
 -- 5. Update Post Malone's song `Congratulations` to have a peak position of 3.
-< YOUR QUERY >
+UPDATE songs
+SET peakposition = 3
+WHERE id = 32;
