@@ -13,7 +13,7 @@
 6. **IMPORTANT** Merge your `questions` branch into the `main` branch.
 7. Create a branch called `SQL`.
 8. In PgAdmin, create a database called `SpotifyTopSongs`.
-9. Run the SETUP SQL queries in db_setup.txt (you can copy the entire file and run it all at once).
+9. Run the SETUP SQL queries in dbsetup.txt (you can copy the entire file and run it all at once).
 10. Create the queries in SQL.txt. Replace each `< YOUR QUERY >` placeholder with the correct query.
 11. Commit your changes with this commit message: `complete SQL queries`
 12. **IMPORTANT** Merge your `SQL` branch into the main branch.
