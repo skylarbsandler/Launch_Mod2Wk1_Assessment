@@ -4,12 +4,13 @@ SELECT artistname, songname
 FROM songs;
 
 -- 2. List the top 10 songs.
-SELECT artistname, songname
+SELECT position, artistname, songname, days, peakposition
 FROM songs
-WHERE position < 11;
+WHERE position < 11
+ORDER BY position;
 
 -- 3. List all songs that have been in the number 1 position (peakPosition).
-SELECT artistname, songname, peakposition
+SELECT position, artistname, songname, days, peakposition
 FROM songs
 WHERE peakposition = 1;
 
