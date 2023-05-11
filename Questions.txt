@@ -1,13 +1,16 @@
 *** QUESTIONS ***
 
 1. What does it mean to `commit` in a git repository?
-< Your answer here >
+To commit in a git repository is to create a save-point. A commit creates a snapshot of what the project looks like at the moment. We can go back and reference these commits to see previous version of the project.
 
 2. When should you create a new branch?  Use examples in your answer!
-< Your answer here >
+A branch should be used for code that is in progress. It is best practice for the main file to be reserved for completed, functional code. This allows for the main to be shown to clients without fear of bugs.
+For example, a branch should be used when adding new functionality or a new feature to the project. The feature cna be tinkered and perfected in the branch without distrubing the main code file. Once troubleshot,
+the branch can be merged with the main file.
 
 3. In your own words, what is a database?  Use examples to explain.
-< Your answer here >
+A database stores information (data with context) so it cna be referenced and used later. In a database, we can create, read, update, and delete data. 
+An example of a database is when a college has a database of students with their academic transcipts.
 
 4. In a database, how do we create relationships between tables?
-< Your answer here >
+Primary and foreign keys are used to create relationships between tables. Every table needs a primary key. To link tables, we use a foreign key in Table B that refers back to the primary keys from Table A.
